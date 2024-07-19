@@ -1,0 +1,5 @@
+Lego Based Data Structure :
+-> computer vision based detection system 
+-> the Logo elements will be detected by the camera 
+-> depending on the orientation and the color 
+-> the web page will be updated 
