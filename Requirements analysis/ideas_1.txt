@@ -3,3 +3,16 @@ Lego Based Data Structure :
 -> the Logo elements will be detected by the camera 
 -> depending on the orientation and the color 
 -> the web page will be updated 
+
+
+
+or Block based Data Structure :
+-> wooden or any material block will be treated as  the data for the data structure 
+-> The block will have the Screen , sensors and the battery in its own 
+-> This block will be connected to the environment 
+-> environment will be a space : a box or a container 
+-> the container will be having the then sending the data to the web server 
+-> the web server will be using the technology such as websockets 
+-> then the web sockets will be updating the web page 
+-> the live update on the web page 
+ 
