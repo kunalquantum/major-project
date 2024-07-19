@@ -1,4 +1,4 @@
-Lego Based Data Structure :
+1.Lego Based Data Structure :
 -> computer vision based detection system 
 -> the Logo elements will be detected by the camera 
 -> depending on the orientation and the color 
@@ -6,7 +6,7 @@ Lego Based Data Structure :
 
 
 
-or Block based Data Structure :
+2. Block based Data Structure :
 -> wooden or any material block will be treated as  the data for the data structure 
 -> The block will have the Screen , sensors and the battery in its own 
 -> This block will be connected to the environment 
@@ -16,3 +16,9 @@ or Block based Data Structure :
 -> then the web sockets will be updating the web page 
 -> the live update on the web page 
  
+3.
+ -> vr and ar integration 
+ -> all of the above only but the ar model will move as per the movement 
+->Create a system where physical blocks equipped with sensors send data to a web server.
+->The server updates an AR/VR interface to provide real-time, 
+->immersive visualization of the data.
